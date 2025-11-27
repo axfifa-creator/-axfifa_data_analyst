@@ -54,7 +54,6 @@
 - ClickHouse 
 - PySpark
 - Apache Airflow
-- DevOps
 
 ## Контакты
 - Email: axfifa@yandex.com
